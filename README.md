@@ -48,11 +48,13 @@ modern-chair-page/
 ├── script.js
 └── assets/
 
+
 ## 📸 Preview
 ![Modern Chair Page Preview]
 <img width="1131" height="713" alt="Screenshot 2025-08-25 115312" src="https://github.com/user-attachments/assets/4102775e-341c-4cc4-848e-6960da66b910" />
 <img width="1135" height="664" alt="Screenshot 2025-08-25 115337" src="https://github.com/user-attachments/assets/94614a48-bd8a-42b7-a75b-55bcc5e7b691" />
 <img width="1293" height="726" alt="Screenshot 2025-08-25 115410" src="https://github.com/user-attachments/assets/4aa10fdd-69fa-4bba-92d8-7cf741b98f22" />
+
 
 ## 💡 How to Use
 1. Clone the repository  
