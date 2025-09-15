@@ -1,3 +1,4 @@
+
 # 🪑 Modern Chair Page
 
 A sleek and responsive modern chair landing page built with clean design and smooth UI/UX to showcase furniture products.
@@ -46,7 +47,6 @@ modern-chair-page/
 ├── style.css
 ├── script.js
 └── assets/
-
 
 ## 📸 Preview
 ![Modern Chair Page Preview]
